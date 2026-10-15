@@ -19,36 +19,36 @@
     "rsvpDeadline": "2026-08-20"
   },
   "salon": {
-    "name": "Restaurante Santa Ana",
-    "address": "Avda. Murcia, 244, 30589 Los Ramos, Murcia, España",
+    "name": "Finca Los Olivos",
+    "address": "Camino del Olivar, 12, 45999 Valdeolivos, España",
     "coordinates": {
-      "lat": 37.9358,
-      "lng": -1.0553
+      "lat": 39.8500,
+      "lng": -3.9500
     }
   },
   "schedule": [
     {
       "time": "18:00",
       "title": "Ceremonia Civil",
-      "description": "El 'Sí, quiero' bajo la gran cúpula forestal en La Pinada de Santa Ana.",
+      "description": "El 'Sí, quiero' bajo la gran cúpula forestal en El Pinar de Los Olivos.",
       "icon": "heart"
     },
     {
       "time": "19:30",
       "title": "Cóctel de Bienvenida",
-      "description": "Aperitivos murcianos modernos y bebidas frías en los Jardines de Altaona.",
+      "description": "Aperitivos mediterráneos modernos y bebidas frías en los Jardines del Olivar.",
       "icon": "glass"
     },
     {
       "time": "21:30",
       "title": "Banquete de Bodas",
-      "description": "Cena de gala de autor diseñada por la chef Estrella Carrillo en el Salón Alquimia.",
+      "description": "Cena de gala de autor diseñada por nuestro equipo de cocina en el Salón de los Olivos.",
       "icon": "utensils"
     },
     {
       "time": "23:30",
       "title": "Gran Fiesta",
-      "description": "Barra libre, recena gourmet de madrugada y baile en La Era de Santa Ana.",
+      "description": "Barra libre, recena gourmet de madrugada y baile en La Era de Los Olivos.",
       "icon": "music"
     }
   ],
@@ -56,14 +56,14 @@
     "buses": [
       {
         "id": "bus-ida",
-        "route": "Ida: Murcia Centro -> Restaurante Santa Ana",
+        "route": "Ida: Centro ciudad -> Finca Los Olivos",
         "departureTime": "17:15",
-        "pickupLocation": "Plaza Circular (frente a la parada del tranvía)",
+        "pickupLocation": "Plaza Mayor (frente a la parada de autobús)",
         "notes": "Se ruega puntualidad de 10 minutos antes de la salida."
       },
       {
         "id": "bus-vuelta",
-        "route": "Vuelta: Restaurante Santa Ana -> Murcia Centro",
+        "route": "Vuelta: Finca Los Olivos -> Centro ciudad",
         "departureTimes": ["02:30", "04:30", "06:30"],
         "pickupLocation": "Puerta principal de salida del recinto",
         "notes": "Paradas intermedias bajo demanda en el recorrido de vuelta."
